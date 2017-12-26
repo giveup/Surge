@@ -196,7 +196,7 @@ macOS：
 
 规则更新通知（新特性/教程/说明）：[http://t.me/RuleNews](http://t.me/RuleNews)
 
-购买翻墙服务：[https://爱兔联盟.com](https://爱兔联盟.com)（[了解详情](https://github.com/lhie1/tuClub/blob/master/README.md)）
+购买翻墙服务：[https://墙洞.com](https://墙洞.com)（[了解详情](https://github.com/lhie1/tuClub/blob/master/README.md)）
 
 长时间的维护和分享离不开大家的鼓励与支持，如果帮助到您，可以考虑捐赠，谢谢。
 
@@ -252,9 +252,11 @@ Adguard：https://adguard.com/en/welcome.html
 
 🍂 Domestic：管控国内的流量；🚀 Direct - 智能分流 (Pac)；🍃 Proxy - 全局代理
 
-🍎 Proxy： 管控苹果的流量；如果苹果某些服务直连困难，设其为代理，可能会改善一些问题：🍎 Only - 代理服务器
+☁️ Others：掌控规则名单外的非国内 IP 的流量
 
-建议 ： 🍃 Proxy - 代理服务器；🍂 Domestic - 🌍 Direct ；🍎 Only - 🚀 Direct/代理服务器
+🍎 Only： 管控苹果的流量；如果苹果某些服务直连困难，设其为代理，可能会改善一些问题：🍎 Only - 代理服务器
+
+建议 ： 🍃 Proxy - 代理服务器；🍂 Domestic - 🚀 Direct ；☁️ Others - 🚀 Direct；🍎 Only - 🚀 Direct / 代理服务器
 ````
 
 #### 🚀 [混淆模式](https://github.com/breakwa11/shadowsocks-rss/blob/master/ssr.md)
