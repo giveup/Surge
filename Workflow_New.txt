@@ -1,4 +1,4 @@
-增加 TestFlight 开关
+增加 TestFlight 开关，支持最新的 UDP 规则。
 （我还以为用不上了）
 
 
