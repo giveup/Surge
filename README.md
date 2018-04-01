@@ -15,7 +15,7 @@
     * [Workflow](#workflow关注微信公众号墙洞说发送rule-即可获取最新-user-data--rule-ota)
     	* User Data
     	* Rule OTA
-* [证书的安装及信任](#mitm)
+* [证书的安装及信任](#mitm-1)
 * [Android SSR ACL](#android-ssr-acl)
 * [浏览器广告](#browser-ad)
 * [关于](#关于)
